@@ -9,7 +9,7 @@ export default function CTA() {
           শুরু করুন আজই
         </div>
         <h2 className="cta-title" style={titleStyle}>স্বপ্নের চাকরির দিকে<br />প্রথম পদক্ষেপ নিন</h2>
-        <p className="cta-sub" style={subStyle}>ফ্রী ক্লাসে যোগ দিন এবং পার্থক্য নিজেই অনুভব করুন</p>
+        <p className="cta-sub" style={subStyle}>ফ্রি ক্লাসে যোগ দিন এবং পার্থক্য নিজেই অনুভব করুন</p>
       </div>
       <div className="cta-r" style={rStyle}>
         <button className="btn-cta" style={btnStyle}>
