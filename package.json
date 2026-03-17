@@ -1,5 +1,6 @@
 {
   "name": "ankshala",
+  "_deploy_trigger": "force_sync_1",
   "private": true,
   "version": "0.0.0",
   "type": "module",
