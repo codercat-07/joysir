@@ -67,7 +67,7 @@ export default function Hero() {
           </div>
           <div className="hc-tags" style={{ display: 'flex', gap: '8px' }}>
             <span className="hc-tag" style={tagGoldStyle}>ফ্রী ক্লাস</span>
-            <span className="hc-tag" style={tagMintStyle}>স্পেশাল ব্যাচ</span>
+            <span className="hc-tag" style={tagMintStyle}>স্পেশাল কেয়ার ব্যাচ</span>
           </div>
         </div>
       </div>
